@@ -1,5 +1,5 @@
-const a = 29;
-const b = 30;
+const a = 30;
+const b = 31;
 
 export default function getSum(a, b) {
     return a + b;
